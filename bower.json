@@ -1,0 +1,31 @@
+{
+  "name": "simple-router-helper",
+  "version": "0.1",
+  "homepage": "https://github.com/pi-jzl/simple-router-helper",
+  "authors": [
+    "John Zhang Li <john.li@planetinnovation.com.au>"
+  ],
+  "description": "A simple version route helper module.",
+  "main": "src.js",
+  "moduleType": [],
+
+  "dependencies": {
+    "angular": "1.4.8",
+    "angular-ui-router": "0.2.15"
+  },
+  "keywords": [
+    "angular",
+    "router",
+    "john",
+    "papa",
+    "helper"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
